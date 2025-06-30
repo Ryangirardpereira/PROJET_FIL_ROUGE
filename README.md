@@ -45,17 +45,17 @@ Ce projet s’inscrit dans le cadre du module "Projet Fil Rouge" de notre format
 ## 💡 Auteurs
 
 - **Ryan Girard** – Analyse PIB & traitement COVID
-- **[Nom du camarade]** – Étude du chômage
+- **Gwendal Kerboul** – Étude du chômage
 
 ## ✅ Livrables
 
 - Notebook d’analyse `COVID.ipynb`
-- Présentation PowerPoint
+- Présentation Canva
 - Code source et graphique disponibles sur ce dépôt
 
 ## 🛠 Outils
 
-- Python, Pandas, Plotly, Matplotlib
+- Python, Pandas, Plotly, Matplotlib, dash
 - Jupyter Notebook
 
 ## 📎 Licence
